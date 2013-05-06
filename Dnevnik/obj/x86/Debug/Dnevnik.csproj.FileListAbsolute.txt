@@ -1,0 +1,14 @@
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\bin\Debug\Dnevnik.exe
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\bin\Debug\Dnevnik.pdb
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.Form1.resources
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.Properties.Resources.resources
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.exe
+c:\users\nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.pdb
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\bin\Debug\Dnevnik.exe.config
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.Unos.resources
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.Pregled.resources
+C:\Users\Nedim\documents\visual studio 2010\Projects\Dnevnik\Dnevnik\obj\x86\Debug\Dnevnik.Ulaz.resources
